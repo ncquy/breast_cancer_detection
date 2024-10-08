@@ -68,9 +68,7 @@ The results after testing different models are summarized in the table below.
 <p align='center'>
   <img width="800px" src="https://github.com/ncquy/breast_cancer_detection/blob/main/wdbc_classification_cv.png" />
   <br/>
-  <i> The Breast Cancer Classification results after testing different models.
-
-.</i>
+  <i> The Breast Cancer Classification results after testing different models.</i>
 </p>
 
 ### Authors
